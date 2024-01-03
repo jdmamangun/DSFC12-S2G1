@@ -1,6 +1,6 @@
 **Uncovering the Silent Epidemic: Insights into Stroke Risk Factors** 
 
-Stroke stands as one of the leading global causes of mortality. While maintaining a healthy diet and adequate sleep are commonly advocated, our focus delves deeper.
+Stroke stands as one of the leading global causes of mortality. While maintaining a balanced diet and adequate sleep are commonly advocated for good health and well-being, our focus delves deeper.
 
 With a thorough examination of patient demographics and comorbidities, we aim to determine key features that influence stroke prognosis.
 
